@@ -23,4 +23,5 @@
         component = 'COMPONENT_38SPECIAL_CLIP_01',
         item = 'pistol_defaultclip',
     },
+},
 
