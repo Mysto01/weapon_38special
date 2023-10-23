@@ -17,7 +17,7 @@
 				<Item type="CWeaponInfo">
 					<Name>WEAPON_38SPECIAL</Name>
 					<Model>w_pi_38special</Model>
-					<Audio>AUDIO_ITEM_SNSPISTOL</Audio>
+					<Audio>AUDIO_ITEM_REVOLVER</Audio>
 					<Slot>SLOT_WEAPON_38SPECIAL</Slot>
 					<DamageType>BULLET</DamageType>
 					<Explosion>
